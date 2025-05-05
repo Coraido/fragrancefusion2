@@ -1,1 +1,2 @@
-# fragrancefusion2
+# FragranceFusion
+ Platform Technologies Final Project
